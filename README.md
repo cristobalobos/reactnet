@@ -1,4 +1,4 @@
 # reactnet
 
-* Crear componente React
-* Agregar un contenedor DOM al archivo HTML
+* Create React component
+* Add a DOM container to the HTML file
